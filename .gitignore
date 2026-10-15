@@ -1,0 +1,14 @@
+# Configuração real: tem as chaves e o número de WhatsApp. NUNCA subir.
+config.json
+.env
+*.ini
+*.key
+
+# Arquivos gerados pelo robô enquanto roda
+log.txt
+estado_rodizio.json
+historico_enviados.json
+
+# Backups
+*.bak*
+__pycache__/
